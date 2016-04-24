@@ -18,7 +18,8 @@ public class LoginTest {
 	public void I_Go_To_Salesforce(String URL,String browser){
 		System.out.println("I am going to "+ URL +" on  "+ browser);
 		selenium.openBrowser(browser);
-		selenium.navigate(URL);
+//		selenium.navigate(URL);
+Hello
 	}
 	
 	
