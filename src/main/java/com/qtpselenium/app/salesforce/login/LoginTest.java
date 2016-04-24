@@ -12,7 +12,7 @@ import cucumber.api.java.en.Then;
 
 //step layer
 public class LoginTest {
-	WebConnector selenium = WebConnector.getInstance(); //Siddhant Jain
+	WebConnector selenium = WebConnector.getInstance(); //Siddhant JaiShsishkdjasldjasjdn
 	
 	@Given("^I go to \"([^\"]*)\" on \"([^\"]*)\"$")
 	public void I_Go_To_Salesforce(String URL,String browser){
